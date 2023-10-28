@@ -1,4 +1,4 @@
-"# tic-tac-toe-console" 
+# tic-tac-toe-console
 
 One of my first larger projects, made to be played by two people. 
 
